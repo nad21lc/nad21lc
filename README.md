@@ -1,4 +1,3 @@
-### Hi there 
 ### 👋 Hello. Im' Nadia Lucas
 ### :four_leaf_clover: Where to find me nad21lc@gmail.com
 <!--
