@@ -1,5 +1,5 @@
 ### 👋 Hello. Im' Nadia Lucas
-### :four_leaf_clover: Where to find me nad21lc@gmail.com
+### :four_leaf_clover: Where to find me nad21lc@gmail.com or u202120430@upc.edu.pe
 <!--
 **nad21lc/nad21lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
