@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 style="font-family: 'Roboto', sans-serif; color: #F10086; font-size: 2.5em;">Welcome to My Portfolio 👋</h1>
+  <h1 style="font-family: 'Roboto', sans-serif; color: #F10086; font-size: 2.5em;">Hi there! I'm Nadia Lucas 👋</h1>
 
   <!-- Description and Image -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <div style="text-align: center;">
-      <p style="font-size: 1.2em; color: #fff;">Hi there! I'm Nadia Lucas, a Full-Stack Developer and Software Engineering student. Explore my projects and see what I'm up to!</p>
+      <p style="font-size: 1.2em; color: #fff;">I'm a Full-Stack Developer and Software Engineering student. Explore my projects and see what I'm up to!</p>
     </div>
   </div>
 
