@@ -4,7 +4,7 @@
   <!-- Description and Image -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <div style="text-align: center;">
-      <p style="font-size: 1.2em; color: #fff;">I'm a Full-Stack Developer and Software Engineering student. Explore my projects and see what I'm up to! 🐲 </p>
+      <p style="font-size: 1.2em; color: #fff;">I'm a Full-Stack Developer and Software Engineering student at Universidad Peruana de Ciencias Aplicadas. Explore my projects and see what I'm up to! 🐲 </p>
     </div>
     <!-- GIF -->
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNa6M3cxdGo3cWVuajh0ZGN0OTAxNWxsdTVuc3dxc2hkeXA1YjlnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vKH4mU0p1leRjYRyjx/giphy.gif" width="300" alt="Animated         Image" style="border-radius: 50px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width:250px;">
