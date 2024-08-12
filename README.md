@@ -83,7 +83,7 @@
   <!-- Portfolio Link -->
   <div style="margin-top: 30px;">
     <h2 style="font-family: 'Roboto', sans-serif; color: #F10086; font-size: 1.8em;">Explore My Work 🚀</h2>
-    <a href="https://main--nadialucas.netlify.app/" >
+    <a href="https://nadialucas.netlify.app/" >
       <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
     </a>
   </div>
