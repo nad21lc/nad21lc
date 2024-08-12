@@ -75,12 +75,16 @@
   <div style="margin-top: 30px;">
     <h2 style="font-family: 'Roboto', sans-serif; color: #F10086; font-size: 1.8em;">Contact Me 📧</h2>
     <p style="font-size: 1.1em; color: #fff;">For any inquiries or opportunities, feel free to reach out:</p>
-    <a href="mailto:nad21lc@gmail.com" style="font-size: 1.2em; color: #7d8c8d; text-decoration: none; border-bottom: 2px solid #7d8c8d;">Email Me</a>
+    <a href="mailto:nad21lc@gmail.com" style="font-size: 1.2em; color: #7d8c8d; text-decoration: none; border-bottom: 2px solid #7d8c8d;">
+      <img alt="email me" src="https://img.shields.io/static/v1?label&message=email+me&color=7E3ACE&style=for-the-badge"/>
+    </a>
   </div>
 
   <!-- Portfolio Link -->
   <div style="margin-top: 30px;">
     <h2 style="font-family: 'Roboto', sans-serif; color: #F10086; font-size: 1.8em;">Explore My Work 🚀</h2>
-    <a href="https://main--nadialucas.netlify.app/" target="_blank" style="font-size: 1.2em; color: #7d8c8d; text-decoration: none; border-bottom: 2px solid #7d8c8d;">View My Portfolio</a>
+    <a href="https://main--nadialucas.netlify.app/" >
+      <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+    </a>
   </div>
 
